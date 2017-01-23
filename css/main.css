@@ -20,6 +20,16 @@ html {
   animation: look 3s infinite alternate;
 }
 
+@keyframes look {
+
+  0% {
+  transform: translateX(-10px);
+  }
+
+  100% {
+  transform: translateX(10px);
+  }
+}
 
 #left-ear {
   transition: all .5s linear;
