@@ -23,11 +23,11 @@ html {
 @keyframes look {
 
   0% {
-  transform: translateX(-10px);
+    transform: translateX(-10px);
   }
 
   100% {
-  transform: translateX(10px);
+    transform: translateX(10px);
   }
 }
 
@@ -45,5 +45,4 @@ html {
 
 #bear-head:hover #right-ear {
   transform: translateY(-10px);
-  transform:
 }
