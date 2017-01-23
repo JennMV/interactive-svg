@@ -39,10 +39,10 @@ html {
   transition: all .5s linear;
 }
 
-#bear-head:hover #left-ear {
+#bear:hover #left-ear {
   transform: translateY(-10px);
 }
 
-#bear-head:hover #right-ear {
+#bear:hover #right-ear {
   transform: translateY(-10px);
 }
